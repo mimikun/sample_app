@@ -1,1 +1,1 @@
-https://railstutorial.jp/chapters/basic_login\?version\=5.1\#sec-logging_in
+https://railstutorial.jp/chapters/basic_login?version=5.1#sec-testing_layout_changes
