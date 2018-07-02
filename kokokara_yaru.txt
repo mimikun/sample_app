@@ -1,1 +1,1 @@
-https://railstutorial.jp/chapters/basic_login?version=5.1#sec-login_upon_signup
+https://railstutorial.jp/chapters/basic_login?version=5.1#sec-basic_login_conclusion
