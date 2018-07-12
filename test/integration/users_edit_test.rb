@@ -33,14 +33,5 @@ class UsersEditTest < ActionDispatch::IntegrationTest
     @user.reload
     assert_equal name, @user.name
     assert_equal email, @user.email
-    # 演習 10.2.3
-    # フレンドリーフォワーディングで、
-    # 渡されたURLに初回のみ転送されていることを、
-    # テストを書いて確認してみましょう。
-    # 次回以降のログインのときには、
-    # 転送先のURLはデフォルト (プロフィール画面)
-    # に戻っている必要があります。
-    # ヒント: リスト 10.29のsession[:forwarding_url]が
-    # 正しい値かどうか確認するテストを追加してみましょう。
   end
 end
