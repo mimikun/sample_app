@@ -1,1 +1,1 @@
-https://railstutorial.jp/chapters/updating_and_deleting_users?version=5.1#sec-sample_users
+https://railstutorial.jp/chapters/updating_and_deleting_users?version=5.1#sec-exercises_user_index_test
