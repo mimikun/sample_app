@@ -14,5 +14,6 @@ class UsersIndexTest < ActionDispatch::IntegrationTest
     User.paginate(page: 1).each do |user|
       assert_select 'a[href=?]', user_path(user), text: user.name
     end
+    assert_select 'div.pagination', count: 2
   end
 end
