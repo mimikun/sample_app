@@ -1,1 +1,1 @@
-https://railstutorial.jp/chapters/updating_and_deleting_users?version=5.1#sec-the_destroy_action
+https://railstutorial.jp/chapters/updating_and_deleting_users?version=5.1#sec-user_destroy_tests
