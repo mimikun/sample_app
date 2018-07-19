@@ -1,1 +1,1 @@
-https://railstutorial.jp/chapters/account_activation?version=5.1#sec-account_activations_controller
+https://railstutorial.jp/chapters/account_activation?version=5.1#sec-activation_token_callback
