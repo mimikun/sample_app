@@ -1,2 +1,2 @@
-https://railstutorial.jp/chapters/account_activation?version=5.1#sec-activating_the_account
-11.3.1 authenticated?メソッドの抽象化
+https://railstutorial.jp/chapters/account_activation?version=5.1#sec-activation_edit_action
+11.3.2 editアクションで有効化
