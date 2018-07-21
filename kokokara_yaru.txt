@@ -1,1 +1,2 @@
-https://railstutorial.jp/chapters/account_activation?version=5.1#sec-updating_create
+https://railstutorial.jp/chapters/account_activation?version=5.1#sec-activating_the_account
+11.3.1 authenticated?メソッドの抽象化
