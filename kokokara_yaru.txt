@@ -1,1 +1,1 @@
-https://railstutorial.jp/chapters/account_activation?version=5.1#sec-email_previews
+https://railstutorial.jp/chapters/account_activation?version=5.1#sec-updating_create
