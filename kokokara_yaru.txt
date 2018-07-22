@@ -1,2 +1,1 @@
-https://railstutorial.jp/chapters/account_activation?version=5.1#sec-activation_edit_action
-11.3.2 editアクションで有効化
+https://railstutorial.jp/chapters/account_activation?version=5.1#sec-activation_test_and_refactoring
