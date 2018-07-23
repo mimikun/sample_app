@@ -1,1 +1,1 @@
-https://railstutorial.jp/chapters/account_activation?version=5.1#sec-exercises_activation_test_and_refactoring
+https://railstutorial.jp/chapters/password_reset?version=5.1#cha-password_reset
