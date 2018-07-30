@@ -1,1 +1,1 @@
-https://railstutorial.jp/chapters/password_reset?version=5.1#sec-password_reset_test
+https://railstutorial.jp/chapters/password_reset?version=5.1#sec-exercises_password_reset_test
