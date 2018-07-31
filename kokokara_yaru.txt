@@ -1,1 +1,1 @@
-https://railstutorial.jp/chapters/password_reset?version=5.1#sec-reset_email_in_production
+https://railstutorial.jp/chapters/user_microposts?version=5.1#sec-a_micropost_model
