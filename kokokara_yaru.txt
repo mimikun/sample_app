@@ -1,1 +1,1 @@
-https://railstutorial.jp/chapters/user_microposts?version=5.1#sec-exercises_user_micropost_associations
+https://railstutorial.jp/chapters/user_microposts?version=5.1#sec-exercises_ordering_and_dependency
