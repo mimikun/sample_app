@@ -1,1 +1,1 @@
-https://railstutorial.jp/chapters/user_microposts?version=5.1#sec-creating_microposts
+https://railstutorial.jp/chapters/user_microposts?version=5.1#sec-exercises_creating_microposts
