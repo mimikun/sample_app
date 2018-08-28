@@ -1,1 +1,1 @@
-https://railstutorial.jp/chapters/user_microposts?version=5.1#sec-exercises_destroying_microposts
+https://railstutorial.jp/chapters/user_microposts?version=5.1#sec-micropost_tests
