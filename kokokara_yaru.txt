@@ -1,1 +1,1 @@
-https://railstutorial.jp/chapters/user_microposts?version=5.1#sec-image_upload_in_production
+https://railstutorial.jp/chapters/following_users?version=5.1#sec-a_problem_with_the_data_model
