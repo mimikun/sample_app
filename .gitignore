@@ -27,4 +27,4 @@
 /spring/*.pid
 
 # Ignore upload file
-public/uploads/
+/public/uploads
