@@ -1,1 +1,1 @@
-https://railstutorial.jp/chapters/following_users?version=5.1#sec-relationship_user_associations
+https://railstutorial.jp/chapters/following_users?version=5.1#sec-relationship_validations
