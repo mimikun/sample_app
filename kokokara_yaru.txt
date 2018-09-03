@@ -1,2 +1,1 @@
-https://railstutorial.jp/chapters/following_users?version=5.1#sec-a_problem_with_the_data_model
-14.1 Relationshipモデル
+https://railstutorial.jp/chapters/following_users?version=5.1#sec-relationship_user_associations
