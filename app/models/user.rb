@@ -78,7 +78,7 @@ class User < ApplicationRecord
 
   # ユーザーをフォローする
   def follow(other_user)
-    following << other_user
+    active_relationships.create(followed_id: other_user.id)
   end
 
   # ユーザーをフォロー解除する
