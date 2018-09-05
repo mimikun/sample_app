@@ -1,2 +1,1 @@
-https://railstutorial.jp/chapters/following_users?version=5.1#sec-followers
-まだやってない
+https://railstutorial.jp/chapters/following_users?version=5.1#sec-sample_following_data
