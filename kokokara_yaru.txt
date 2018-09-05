@@ -1,1 +1,3 @@
-https://railstutorial.jp/chapters/following_users?version=5.1#sec-stats_and_a_follow_form
+https://railstutorial.jp/chapters/following_users?version=5.1#sec-exercises_stats_and_a_follow_form
+
+3. Homeページに表示されている統計情報に対してテストを書いてみましょう。ヒント: リスト 13.28で示したテストに追加してみてください。同様にして、プロフィールページにもテストを追加してみましょう。
