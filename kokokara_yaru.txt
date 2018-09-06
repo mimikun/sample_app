@@ -1,1 +1,1 @@
-https://railstutorial.jp/chapters/following_users?version=5.1#sec-stats_and_a_follow_form
+https://railstutorial.jp/chapters/following_users?version=5.1#sec-following_and_followers_pages
