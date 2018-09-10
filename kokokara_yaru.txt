@@ -1,1 +1,1 @@
-https://railstutorial.jp/chapters/following_users?version=5.1#sec-scopes_subselects_and_a_lambda
+https://railstutorial.jp/chapters/following_users?version=5.1#sec-exercises_scopes_subselects_and_a_lambda
