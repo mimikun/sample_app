@@ -20,7 +20,11 @@ class UsersEditTest < ActionDispatch::IntegrationTest
 
   test "successful edit with friendly forwarding" do
     get edit_user_path(@user)
+    # 初回ログイン時には、値が入っている
+    assert_equal session[:forwarding_url], edit_user_url(@user)
     log_in_as(@user)
+    # 次回以降のログインでは、値が入っていない
+    assert_nil session[:forwarding_url]
     assert_redirected_to edit_user_url(@user)
     name = "Foo Bar"
     email = "foo@bar.com"
@@ -33,5 +37,15 @@ class UsersEditTest < ActionDispatch::IntegrationTest
     @user.reload
     assert_equal name, @user.name
     assert_equal email, @user.email
+    # 演習
+    # https://railstutorial.jp/chapters/updating_and_deleting_users?version=5.1#sec-exercises_friendly_forwarding
+    # 1. フレンドリーフォワーディングで、
+    # 渡されたURLに初回のみ転送されていることを、
+    # テストを書いて確認してみましょう。
+    # 次回以降のログインのときには、
+    # 転送先のURLはデフォルト (プロフィール画面)
+    # に戻っている必要があります。
+    # ヒント: リスト 10.29のsession[:forwarding_url]が
+    # 正しい値かどうか確認するテストを追加してみましょう。
   end
 end
