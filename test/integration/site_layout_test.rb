@@ -21,4 +21,11 @@ class SiteLayoutTest < ActionDispatch::IntegrationTest
     get users_path
     assert_template 'users/index'
   end
+
+  test "count relationships" do
+    log_in_as(@user)
+    get root_path
+    assert_match @user.active_relationships.count.to_s, response.body
+    assert_match @user.passive_relationships.count.to_s, response.body
+  end
 end
